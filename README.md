@@ -1,2 +1,2 @@
 # git-entrainement
-Dépôt d'entraînement 
+Dépôt d'entraînement Git : branches, merge, conflits, rebase sur des fichiers texte.
